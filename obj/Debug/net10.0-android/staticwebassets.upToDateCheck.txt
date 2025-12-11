@@ -1,7 +1,8 @@
 wwwroot\app.css
+wwwroot\images\iic.jpg
 wwwroot\index.html
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-wwwroot\images\iic.jpg
+wwwroot\images\profile.jpg
 C:\Users\Swika\.nuget\packages\microsoft.aspnetcore.components.webview\10.0.0\build\..\staticwebassets\blazor.webview.js
 C:\Users\Swika\.nuget\packages\microsoft.aspnetcore.components.webview\10.0.0\build\..\staticwebassets\blazor.modules.json

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\iic.jpg"
     },
     {
+      "Id": "C:\\Users\\Swika\\source\\repos\\MauiApp1\\wwwroot\\images\\profile.jpg",
+      "PackagePath": "staticwebassets\\images\\profile.jpg"
+    },
+    {
       "Id": "C:\\Users\\Swika\\source\\repos\\MauiApp1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
